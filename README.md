@@ -1,3 +1,3 @@
-![github-foundations](https://github.com/user-attachments/assets/399eeed3-c76d-4621-903e-4e8a5002ca39)
-![github-copilot](https://github.com/user-attachments/assets/21f9ef1f-ccf0-4c52-a625-26da6ef9e5ad)
-![github-actions (1)](https://github.com/user-attachments/assets/ee95d474-3e4d-4033-9c0a-3a2e7819ef7c)
+![github-foundations (1)](https://github.com/user-attachments/assets/9cb62ce9-5079-43c0-b477-c20c825ee649)
+![github-copilot (1)](https://github.com/user-attachments/assets/e351d926-a3b2-4fbe-a8d2-7173ee9d631d)
+![github-actions (2)](https://github.com/user-attachments/assets/ac376bcb-ddb7-4895-bb1f-110b92a0b37b)
